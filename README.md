@@ -13,6 +13,8 @@ As of now, my main releases are
   - [1:1 icons](https://themezer.net/packs/P5G-Persona-5-Golden-4e9)
   - [Vertical icons](https://themezer.net/packs/P5G-Persona-5-Golden-version-2-4f7)
 
-Credits are appreciated if you intend to submit your edited layout on Themezer...
+If you are not familiar at all with layout editing, while it is not *that* necessary, I still recommend reading through the [LayoutDocs](layoutdocs.themezer.net/) beforehand.
+
+Credits are appreciated if you intend to submit your modifications on Themezer...
 
 ### Got issues? Don't hesitate to ask [ThemezerNX](https://discord.gg/nnm8wyM) or [exelix's](https://discord.gg/rqU5Tf8) Discord servers. You'll find me in both of them.
